@@ -1,0 +1,18 @@
+毕设大纲
+
+1. Introduction 
+研究背景, 异构计算, 相关综述
+
+2. Related Works
+异构计算, 系统调用, gpio, axi-dma, 
+
+3. 系统架构
+pl,ps,kernel,syscall
+
+4. 系统的具体实现
+实现步骤, 难点
+
+5. 优化结果分析
+主要从时间上分析
+
+6. 展望,tbd
